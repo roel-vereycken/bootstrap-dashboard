@@ -1,3 +1,3 @@
-# webfolder syntra starter-kit
+# Oefening html frameworks
 
-dit is een basis starter-kit
+Dit is een dashbord gemaakt met bootstrap.
